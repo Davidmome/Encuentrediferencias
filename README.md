@@ -1,5 +1,6 @@
-1.- No habia estilo en el Titulo principal de la pagina debido a que faltaba <h1></h1> antes y despues del texto
-2.-Faltaban <> en la imagen por lo tanto no se veia
+Diferencias
+<li>No habia estilo en el Titulo principal de la pagina debido a que faltaba <h1></h1> antes y despues del texto</li>
+<li>Faltaban <> en la imagen por lo tanto no se veia</li>
 3.-Faltaba la lista en el apartado de cosas favoritas debido a que faltaba <li></li>
 4.-No se ligo correctamente el Javascript, es decir tenia un nombre diferente al correcto
 5.-En el boton del color Pink faltaban "" en la palabra
